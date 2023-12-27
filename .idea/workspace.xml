@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9e391324-1294-4b3e-976d-2ed8c51be0ff" name="Default Changelist" comment="App更新" />
+    <list id="cfdf596d-4e87-4146-8820-ec7e37006100" name="Revert &quot;App更新&quot;" comment="Revert &quot;App更新&quot;&#10;&#10;This reverts commit 69c8bc23" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2RH9Pn6MaBq7NnUmN4E2tigIWSr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="D:/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/release" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\StudioProjects\AppReleaseDownloadGit\release" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\StudioProjects\AppReleaseDownloadGit\release" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e391324-1294-4b3e-976d-2ed8c51be0ff" name="Default Changelist" comment="" />
+      <created>1686896117769</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686896117769</updated>
+    </task>
+    <task id="LOCAL-00001" summary="更新使用方法描述">
+      <created>1687921004210</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1687921004210</updated>
+    </task>
+    <task id="LOCAL-00002" summary="更新">
+      <created>1687940948830</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1687940948830</updated>
+    </task>
+    <task id="LOCAL-00003" summary="App更新">
+      <created>1687941278932</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1687941278932</updated>
+    </task>
+    <task id="LOCAL-00004" summary="App更新">
+      <created>1701995754759</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1701995754759</updated>
+    </task>
+    <task id="LOCAL-00005" summary="App更新">
+      <created>1702023418316</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1702023418316</updated>
+    </task>
+    <task id="LOCAL-00006" summary="App更新">
+      <created>1702626027672</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1702626027673</updated>
+    </task>
+    <task id="LOCAL-00007" summary="App更新">
+      <created>1703569638000</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1703569638000</updated>
+    </task>
+    <task id="LOCAL-00008" summary="App更新">
+      <created>1703570134847</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1703570134847</updated>
+    </task>
+    <task id="LOCAL-00009" summary="App更新">
+      <created>1703574519309</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1703574519309</updated>
+    </task>
+    <task id="LOCAL-00010" summary="App更新">
+      <created>1703665224958</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1703665224958</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="更新使用方法描述" />
+    <MESSAGE value="App更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="App更新" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="449" y="0" key="CommitChangelistDialog2" timestamp="1703570237547">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="449" y="0" key="CommitChangelistDialog2/0.0.1707.1019@0.0.1707.1019" timestamp="1703570237547" />
+    <state x="355" y="154" key="SettingsEditor" timestamp="1703665252304">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="355" y="154" key="SettingsEditor/0.0.1707.1019@0.0.1707.1019" timestamp="1703665252304" />
+    <state x="446" y="239" key="Vcs.Push.Dialog.v2" timestamp="1703665266019">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="446" y="239" key="Vcs.Push.Dialog.v2/0.0.1707.1019@0.0.1707.1019" timestamp="1703665266019" />
+    <state x="651" y="423" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1701995518409">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="651" y="423" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1707.1019@0.0.1707.1019" timestamp="1701995518409" />
+  </component>
+</project>
